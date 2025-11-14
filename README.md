@@ -27,8 +27,6 @@ No accounts, no cloud, no tracking — everything stays on your device.
 
 ## Live Link
 
-(Replace this with your GitHub Pages URL)
-
 **Link:** https://bananaph0ne.github.io/Cotton-Kitty/
 
 ---
